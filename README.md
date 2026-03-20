@@ -27,12 +27,6 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### 📚 Currently Learning
-
-* Data Structures & Algorithms
-* Java (Advanced)
-* Backend Development
-
 ---
 
 ## 📊 GitHub Stats
@@ -49,15 +43,21 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/saurabhv8463-bit/saurabhv8463-bit/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🚀 Projects
 
-🔹 Coming Soon... (You can add your projects here)
+🔹 Coming Soon...
 
 ---
 
 ## 📫 Connect With Me
 
-* 📧 Email: saurabhv8463@gmail.com
+* 📧 Email: [saurabhv8463@gmail.com](mailto:saurabhv8463@gmail.com)
 * 💼 LinkedIn: www.linkedin.com/in/saurabh-vishwakarma-011b02389
 
 ---
