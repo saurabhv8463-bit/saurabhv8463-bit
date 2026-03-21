@@ -35,26 +35,26 @@
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saurabhv8463-bit&show_icons=true&theme=tokyonight"/>  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhv8463-bit&layout=compact&theme=tokyonight"/>  
 
 ---
 
 ## 🔥 Streak Stats
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>  
+<img src="https://streak-stats.demolab.com?user=saurabhv8463-bit&theme=tokyonight"/>  
 
 ---
 
 ## 🐍 Contribution Snake
 
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/saurabhv8463-bit/saurabhv8463-bit/blob/output/github-contribution-grid-snake.svg" />
 
 ---
 
 ## 👀 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=saurabhv8463-bit&label=Profile%20Views&color=0e75b6&style=flat" />
 
 ---
 
