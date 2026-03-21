@@ -45,7 +45,7 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/saurabhv8463-bit/saurabhv8463-bit/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
