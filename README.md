@@ -1,17 +1,16 @@
-# 👋 Hi, I'm Saurabh Vishwakarma
+# 💻 Hey there, I'm Saurabh Vishwakarma 👋
 
-🚀 **Aspiring Full Stack Developer**
-🎓 MCA Student | 💻 Tech Enthusiast | 🌱 Lifelong Learner
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Aspiring+Full+Stack+Developer;MCA+Student;Tech+Enthusiast;DSA+Learner;Always+Learning+New+Things&center=true&width=500&height=50">
 
 ---
 
-## 💫 About Me
+## 🚀 About Me
 
-* 🎓 Currently pursuing **MCA**
-* 💡 Interested in **Web Development & Software Engineering**
-* 🌱 Learning: **C, Java, DSA, Web Development**
-* 🎯 Goal: Become a **Full Stack Developer**
-* ⚡ Fun fact: I love traveling & exploring new technologies
+🎓 MCA Student
+💡 Passionate about **Web Development & Software Engineering**
+🌱 Currently learning **C, Java, DSA, Full Stack Development**
+🎯 Goal: Become a **Professional Full Stack Developer**
+⚡ Love exploring new tech & traveling
 
 ---
 
@@ -24,48 +23,58 @@
 
 ### 🌐 Web Development
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### ⚙️ Tools
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhv8463-bit\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhv8463-bit\&layout=compact\&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>  
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>  
 
 ---
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/saurabhv8463-bit/saurabhv8463-bit/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+
+---
+
+## 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 
 ---
 
 ## 🚀 Projects
 
-🔹 Coming Soon...
+🔹 Coming Soon... (Will add amazing projects soon 🚀)
 
 ---
 
 ## 📫 Connect With Me
 
-* 📧 Email: [saurabhv8463@gmail.com](mailto:saurabhv8463@gmail.com)
-* 💼 LinkedIn: www.linkedin.com/in/saurabh-vishwakarma-011b02389
+* 📧 Email: [saurbhv8463@gmail.com](mailto:saurbhv8463@gmail.com)
+* 💼 LinkedIn: (www.linkedin.com/in/saurabh-vishwakarma-011b02389www.linkedin.com/in/saurabh-vishwakarma-011b02389)
 
 ---
 
-## 🧠 Quote
+## 💡 Quote
 
-> "Consistency is more important than perfection."
+> 💬 "Code. Learn. Build. Repeat."
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+⭐ From [Saurabh Vishwakarma](https://github.com/saurabhv8463-bit)
